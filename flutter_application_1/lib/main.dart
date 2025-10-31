@@ -53,7 +53,7 @@ class HomePage extends StatelessWidget {
                   padding: const EdgeInsetsDirectional.fromSTEB(16, 0, 16, 0),
                 ),
                 child: const Text(
-                  'Zacznij🚀',
+                  'Zacznij 🚀',
                   style: TextStyle(
                     color: Color(0xFF3A3A3A),
                     fontWeight: FontWeight.w600,
